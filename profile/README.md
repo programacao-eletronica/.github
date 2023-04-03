@@ -3,8 +3,8 @@
 
 ** **
 
-## Blog sobre programação, eletrônica e toda a matemágica envolvida nisso!
+## Blog sobre programação, eletrônica e toda a matemágica envolvida nisso! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 
 <br /> 
 
-[![GitHub Followers](https://img.shields.io/github/followers/programacao-eletronica?style=social)](https://github.com/wnoliveira) [![Reach me on LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/company/programa%C3%A7%C3%A3o-eletr%C3%B4nica/) [![My blog](https://img.shields.io/badge/blog--_.svg?style=social&logo=wordpress)](https://programacaoeletronica.wordpress.com/) [![My yt](https://img.shields.io/badge/YouTube--_.svg?style=social&logo=youtube)](https://youtube.com/@programacaoeletronica)
+[![GitHub Followers](https://img.shields.io/github/followers/programacao-eletronica?style=social)](https://github.com/programacao-eletronica) [![Reach me on LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/company/programa%C3%A7%C3%A3o-eletr%C3%B4nica/) [![My blog](https://img.shields.io/badge/blog--_.svg?style=social&logo=wordpress)](https://programacaoeletronica.wordpress.com/) [![My yt](https://img.shields.io/badge/YouTube--_.svg?style=social&logo=youtube)](https://youtube.com/@programacaoeletronica) <a href="https://visitor-badge.glitch.me/badge?page_id=progelet-readme"> <img alt="hemant joshi github" src="https://visitor-badge.glitch.me/badge?page_id=progelet-readme"> </a>
